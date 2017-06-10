@@ -1,0 +1,43 @@
+Type name: model
+
+MIME subtype name: opsa-mef+xml
+
+Mandatory parameters: None
+
+Optional parameters:
+"charset": This parameter has semantics identical to the charset
+parameter of the "text/xml" media type as specified in
+[RFC3023].
+
+Encoding considerations: Identical to those of "text/xml" as
+described in [RFC3023], Section 3.2.
+
+Security considerations: Identical to those of "text/xml" as
+described in [RFC3023], Section 10.
+
+Interoperability consideration: None
+
+Published specification: The Open-PSA Model Exchange Format 2.0d, [MEF-SCHEMA]
+
+Applications which use this media type:
+Probabilistic Risk/Safety Analysis applications.
+
+
+Additional information:
+
+Magic number(s): Identical to those of "text/xml" as
+described in [RFC3023].
+
+File extension(s): .mef .opsa .opsa-mef .xml
+
+Macintosh File Type Code(s): "TEXT"
+
+Intended usage: COMMON
+
+Person and email address for further information: TODO
+
+Author/Change controller: The Model Exchange Format is an open specification of
+the Open-PSA Initiative with following editors:
+
+    Steven Epstein <EMAIL TODO>
+    Antoine Rauzy <EMAIL TODO>
